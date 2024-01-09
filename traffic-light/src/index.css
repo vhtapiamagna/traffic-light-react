@@ -1,0 +1,93 @@
+body {
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.bg-black {
+    height: 500px;
+    width: 180px;
+    border-radius: 40px;
+    text-align:center;
+    padding-top: 25px;
+    
+}
+
+
+/* .semaforo {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin:0px auto;
+    border: solid grey;
+    
+
+} */
+
+.redLight {
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin:0px auto;
+    border: solid grey;
+    
+}
+ 
+.yellowLight {
+   background-color: orange;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin:0px auto;
+    border: solid grey;
+    
+}
+
+.greenLight {
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin:0px auto;
+    border: solid grey;
+    
+}
+
+
+
+.redLightOn {
+    background-color: red;
+    box-shadow: #f8ffcc 0px 0px 50px 20px; 
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin:0px auto;
+    border: solid grey;
+    
+
+}
+.yellowLightOn {
+    background-color: orange;
+    box-shadow: #f8ffcc 0px 0px 50px 20px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin:0px auto;
+    border: solid grey;
+    
+
+}
+.greenLightOn{
+    background-color: green;
+    box-shadow: #f8ffcc 0px 0px 50px 20px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin:0px auto;
+    border: solid grey;
+    
+
+}
